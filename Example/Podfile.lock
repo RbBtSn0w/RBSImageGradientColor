@@ -1,0 +1,16 @@
+PODS:
+  - RBSImageGradientColor (0.1.0)
+
+DEPENDENCIES:
+  - RBSImageGradientColor (from `../`)
+
+EXTERNAL SOURCES:
+  RBSImageGradientColor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RBSImageGradientColor: 341237290becb2b14d38432b64234a36bdd11b61
+
+PODFILE CHECKSUM: fa2059705d326e99f6dc60bb918db78e831edb67
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module Pods_RBSImageGradientColor_Example {
+  umbrella header "Pods-RBSImageGradientColor_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -7,23 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1406E9DD426BDC0035234C3D5CBFA158 /* RBSGradientItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 221193E416EA34C7A408D497472D9464 /* RBSGradientItem.m */; };
+		3880D8E6B2209DDD36168EB58D6D4282 /* RBSGradientImageItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 237144FAA3A4C5E612FCE82C1A2609DA /* RBSGradientImageItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		40C0A957CFA586257E609AC6AE071DB5 /* RBSImageGradientColor-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C25921677DB20EDA495921CCE5CD7B22 /* RBSImageGradientColor-dummy.m */; };
 		459ED5F42EA9CF10B10741A57D86A191 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
-		5F6BADABDB264B0BA37CBEE34E7D96C2 /* RBSImageGradientColor-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C4937752A76F86573D41738DC0521DE /* RBSImageGradientColor-dummy.m */; };
 		63D0361FB8B0B7CA20227D33EA69511B /* Pods-RBSImageGradientColor_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 83EC1042D4AAF7C85D3CAE23EBFB796C /* Pods-RBSImageGradientColor_Example-dummy.m */; };
+		7FC05249B4450A34E604B5816D2516F8 /* RBSGradientTask.m in Sources */ = {isa = PBXBuildFile; fileRef = E076E56F072A0EF49297995F4C59C421 /* RBSGradientTask.m */; };
 		8ABADE696AF231FD543E6F393574832D /* Pods-RBSImageGradientColor_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C68DD8531738CAAD3DE2872C486D9026 /* Pods-RBSImageGradientColor_Tests-dummy.m */; };
-		961932BCA2A44D27E78574F6CAA8D505 /* RBSImageGradientColor-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C6B53BAADB019B2FBC94CB12C529AA47 /* RBSImageGradientColor-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		94171CE3CCB9E5ADCEBBD06E97CD56CB /* RBSGradientModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 2EFDD61ECF5A9B4AD90AA967F12B4112 /* RBSGradientModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A151F321FF03760AFE4F62BE5636BC75 /* Pods-RBSImageGradientColor_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F9F626C394906D32A5DA281B8F80C413 /* Pods-RBSImageGradientColor_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B12B9843211150D800B23234 /* RBSGradientItem.h in Headers */ = {isa = PBXBuildFile; fileRef = B12B9841211150D800B23234 /* RBSGradientItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B12B9844211150D800B23234 /* RBSGradientItem.m in Sources */ = {isa = PBXBuildFile; fileRef = B12B9842211150D800B23234 /* RBSGradientItem.m */; };
-		B12B984D2111569500B23234 /* RBSGradientModel.h in Headers */ = {isa = PBXBuildFile; fileRef = B12B984B2111569500B23234 /* RBSGradientModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B12B984E2111569500B23234 /* RBSGradientModel.m in Sources */ = {isa = PBXBuildFile; fileRef = B12B984C2111569500B23234 /* RBSGradientModel.m */; };
-		B12B985121115C6400B23234 /* RBSGradientImageItem.h in Headers */ = {isa = PBXBuildFile; fileRef = B12B984F21115C6400B23234 /* RBSGradientImageItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B12B985221115C6400B23234 /* RBSGradientImageItem.m in Sources */ = {isa = PBXBuildFile; fileRef = B12B985021115C6400B23234 /* RBSGradientImageItem.m */; };
-		B12B98552111607D00B23234 /* RBSGradientTask.h in Headers */ = {isa = PBXBuildFile; fileRef = B12B98532111607D00B23234 /* RBSGradientTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B12B98562111607D00B23234 /* RBSGradientTask.m in Sources */ = {isa = PBXBuildFile; fileRef = B12B98542111607D00B23234 /* RBSGradientTask.m */; };
 		C67FD1903EC6A4E5629972D56141DDBF /* Pods-RBSImageGradientColor_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BCA96FCCA100195504E1A9C326F28A39 /* Pods-RBSImageGradientColor_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CF6CAAEE66C9B73A5D175645659D53CC /* RBSGradientModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F13E4F8B09B740599F96C9B653AAF23 /* RBSGradientModel.m */; };
 		D1BCDE24D2015A71771DB240614A3789 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
+		DC4D0DDBC3F796CAA8F6FBD6C52F04C6 /* RBSImageGradientColor-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 103E58E8A5BAB3AC12B2EBB6A0797205 /* RBSImageGradientColor-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E3F284BE28D0C9D595DFDE51C9C1CAA3 /* RBSGradientImageItem.m in Sources */ = {isa = PBXBuildFile; fileRef = EABFCC4900E774DF4034427877F65DED /* RBSGradientImageItem.m */; };
+		EC5E0685938D8E7AEEA306E3CFFCF573 /* RBSGradientItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 8CA0176373C81C6518223B38BC2BCF53 /* RBSGradientItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EC60F84525B331AE04A72E88DAA84F91 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
+		ECA04FB4A2C5FDEB035F0A2360F3B937 /* RBSGradientTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 1758922963990C969B36FA387F813C05 /* RBSGradientTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,10 +46,14 @@
 /* Begin PBXFileReference section */
 		01AE26CEA1F40100040D14F0E0FC6908 /* Pods-RBSImageGradientColor_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-RBSImageGradientColor_Example-resources.sh"; sourceTree = "<group>"; };
 		04443372BDAA069893262EE254C155CA /* Pods-RBSImageGradientColor_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-RBSImageGradientColor_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		18EFF712AD35A7F263AD139ED2FADC3E /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		103E58E8A5BAB3AC12B2EBB6A0797205 /* RBSImageGradientColor-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RBSImageGradientColor-umbrella.h"; sourceTree = "<group>"; };
+		1758922963990C969B36FA387F813C05 /* RBSGradientTask.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RBSGradientTask.h; path = RBSImageGradientColor/Classes/RBSGradientTask.h; sourceTree = "<group>"; };
 		1A00DCC9882181199822CFA81A755AEA /* Pods-RBSImageGradientColor_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RBSImageGradientColor_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		1C4937752A76F86573D41738DC0521DE /* RBSImageGradientColor-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "RBSImageGradientColor-dummy.m"; sourceTree = "<group>"; };
-		22E9B0789B306F6DC3674E534AF2BDAC /* RBSImageGradientColor-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RBSImageGradientColor-prefix.pch"; sourceTree = "<group>"; };
+		1F13E4F8B09B740599F96C9B653AAF23 /* RBSGradientModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RBSGradientModel.m; path = RBSImageGradientColor/Classes/RBSGradientModel.m; sourceTree = "<group>"; };
+		221193E416EA34C7A408D497472D9464 /* RBSGradientItem.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RBSGradientItem.m; path = RBSImageGradientColor/Classes/RBSGradientItem.m; sourceTree = "<group>"; };
+		237144FAA3A4C5E612FCE82C1A2609DA /* RBSGradientImageItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RBSGradientImageItem.h; path = RBSImageGradientColor/Classes/RBSGradientImageItem.h; sourceTree = "<group>"; };
+		2A811F9CAE1D23EBCF755ADBEE256093 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		2EFDD61ECF5A9B4AD90AA967F12B4112 /* RBSGradientModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RBSGradientModel.h; path = RBSImageGradientColor/Classes/RBSGradientModel.h; sourceTree = "<group>"; };
 		3B5CD2A1AE457A2EC1F7DB50CAFE99A5 /* Pods-RBSImageGradientColor_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-RBSImageGradientColor_Tests-resources.sh"; sourceTree = "<group>"; };
 		43078D578D340227F74285D15DE49E47 /* Pods-RBSImageGradientColor_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RBSImageGradientColor_Example.release.xcconfig"; sourceTree = "<group>"; };
 		5492691974E14F691A44B172A81291D8 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -58,32 +62,28 @@
 		6C401C03A1466FB0B00A74CAC6741A92 /* Pods-RBSImageGradientColor_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-RBSImageGradientColor_Tests.modulemap"; sourceTree = "<group>"; };
 		7D4A8BE652AB4DC5B3B001FC8966E8B0 /* Pods-RBSImageGradientColor_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RBSImageGradientColor_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		8029BF4CD973D9F92699D2ADB4F32CAD /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		80B32930856CE58EEF9316D6D3FA2A98 /* RBSImageGradientColor.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RBSImageGradientColor.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		80B32930856CE58EEF9316D6D3FA2A98 /* RBSImageGradientColor.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = RBSImageGradientColor.framework; path = RBSImageGradientColor.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		83EC1042D4AAF7C85D3CAE23EBFB796C /* Pods-RBSImageGradientColor_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-RBSImageGradientColor_Example-dummy.m"; sourceTree = "<group>"; };
-		8886A4EFF9DC345E43C5256F03293909 /* RBSImageGradientColor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = RBSImageGradientColor.xcconfig; sourceTree = "<group>"; };
-		8CA95119B36AA1D1390D78E955BC060D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		944C5D1591D8B7DAC6C2076C0941BCBF /* Pods_RBSImageGradientColor_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RBSImageGradientColor_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9453C8D1E99C997814ADE40E1995A117 /* RBSImageGradientColor.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = RBSImageGradientColor.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A0A7ED63839F145277CA5EB2461997EB /* Pods_RBSImageGradientColor_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RBSImageGradientColor_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B12B9841211150D800B23234 /* RBSGradientItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RBSGradientItem.h; path = RBSImageGradientColor/Classes/RBSGradientItem.h; sourceTree = "<group>"; };
-		B12B9842211150D800B23234 /* RBSGradientItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RBSGradientItem.m; path = RBSImageGradientColor/Classes/RBSGradientItem.m; sourceTree = "<group>"; };
-		B12B984B2111569500B23234 /* RBSGradientModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RBSGradientModel.h; path = RBSImageGradientColor/Classes/RBSGradientModel.h; sourceTree = "<group>"; };
-		B12B984C2111569500B23234 /* RBSGradientModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RBSGradientModel.m; path = RBSImageGradientColor/Classes/RBSGradientModel.m; sourceTree = "<group>"; };
-		B12B984F21115C6400B23234 /* RBSGradientImageItem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = RBSGradientImageItem.h; path = RBSImageGradientColor/Classes/RBSGradientImageItem.h; sourceTree = "<group>"; };
-		B12B985021115C6400B23234 /* RBSGradientImageItem.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = RBSGradientImageItem.m; path = RBSImageGradientColor/Classes/RBSGradientImageItem.m; sourceTree = "<group>"; };
-		B12B98532111607D00B23234 /* RBSGradientTask.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = RBSGradientTask.h; path = RBSImageGradientColor/Classes/RBSGradientTask.h; sourceTree = "<group>"; };
-		B12B98542111607D00B23234 /* RBSGradientTask.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = RBSGradientTask.m; path = RBSImageGradientColor/Classes/RBSGradientTask.m; sourceTree = "<group>"; };
+		877F0A1AE4F2FDF6AB112D3FBA4CF09A /* RBSImageGradientColor.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = RBSImageGradientColor.modulemap; sourceTree = "<group>"; };
+		8CA0176373C81C6518223B38BC2BCF53 /* RBSGradientItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RBSGradientItem.h; path = RBSImageGradientColor/Classes/RBSGradientItem.h; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		944C5D1591D8B7DAC6C2076C0941BCBF /* Pods_RBSImageGradientColor_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_RBSImageGradientColor_Tests.framework; path = "Pods-RBSImageGradientColor_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A0A7ED63839F145277CA5EB2461997EB /* Pods_RBSImageGradientColor_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_RBSImageGradientColor_Example.framework; path = "Pods-RBSImageGradientColor_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B6D4AD843AD898B5D8B6DA04B3D1AE6F /* RBSImageGradientColor-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RBSImageGradientColor-prefix.pch"; sourceTree = "<group>"; };
 		BCA96FCCA100195504E1A9C326F28A39 /* Pods-RBSImageGradientColor_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-RBSImageGradientColor_Tests-umbrella.h"; sourceTree = "<group>"; };
-		C01CBBCE6C4FC1A6D27575891D2C88B1 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C25921677DB20EDA495921CCE5CD7B22 /* RBSImageGradientColor-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "RBSImageGradientColor-dummy.m"; sourceTree = "<group>"; };
 		C68DD8531738CAAD3DE2872C486D9026 /* Pods-RBSImageGradientColor_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-RBSImageGradientColor_Tests-dummy.m"; sourceTree = "<group>"; };
-		C6B53BAADB019B2FBC94CB12C529AA47 /* RBSImageGradientColor-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RBSImageGradientColor-umbrella.h"; sourceTree = "<group>"; };
 		CF7263A673A88EF26D70E84F521B25C3 /* Pods-RBSImageGradientColor_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-RBSImageGradientColor_Example.modulemap"; sourceTree = "<group>"; };
+		D37384853C909CB97D2A66E53DEFE777 /* RBSImageGradientColor.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = RBSImageGradientColor.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		D4F4EB18C4704F79C649FA9302F34C16 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		D730F82BE7CE3163562A47354DEBA29E /* RBSImageGradientColor.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = RBSImageGradientColor.xcconfig; sourceTree = "<group>"; };
 		D92F4DCAC8503A8BDF68C8A4E835991A /* Pods-RBSImageGradientColor_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RBSImageGradientColor_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		E076E56F072A0EF49297995F4C59C421 /* RBSGradientTask.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RBSGradientTask.m; path = RBSImageGradientColor/Classes/RBSGradientTask.m; sourceTree = "<group>"; };
+		E1D6375A6753A75E4DA3307655F8F212 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E85379E4665BC11C1CBC9BBCEE198B66 /* Pods-RBSImageGradientColor_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RBSImageGradientColor_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		E868115C89517F0F4FE3B29240F18B1F /* Pods-RBSImageGradientColor_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-RBSImageGradientColor_Example-frameworks.sh"; sourceTree = "<group>"; };
+		EABFCC4900E774DF4034427877F65DED /* RBSGradientImageItem.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RBSGradientImageItem.m; path = RBSImageGradientColor/Classes/RBSGradientImageItem.m; sourceTree = "<group>"; };
 		F668B3C147DA2636B398E9426F6267FB /* Pods-RBSImageGradientColor_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RBSImageGradientColor_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		F8A9FBB50FC1E10459076F2989A431C7 /* RBSImageGradientColor.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = RBSImageGradientColor.modulemap; sourceTree = "<group>"; };
 		F9F626C394906D32A5DA281B8F80C413 /* Pods-RBSImageGradientColor_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-RBSImageGradientColor_Example-umbrella.h"; sourceTree = "<group>"; };
 		FA671BB56E9A3C6E5902CA23635DD29E /* Pods-RBSImageGradientColor_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RBSImageGradientColor_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -116,24 +116,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		212E0E9295A59009B784766EFA70243C /* RBSImageGradientColor */ = {
-			isa = PBXGroup;
-			children = (
-				E903BFE927AB7E73B07B422C4A939574 /* Pod */,
-				B12B984F21115C6400B23234 /* RBSGradientImageItem.h */,
-				B12B985021115C6400B23234 /* RBSGradientImageItem.m */,
-				B12B9841211150D800B23234 /* RBSGradientItem.h */,
-				B12B9842211150D800B23234 /* RBSGradientItem.m */,
-				B12B984B2111569500B23234 /* RBSGradientModel.h */,
-				B12B984C2111569500B23234 /* RBSGradientModel.m */,
-				B12B98532111607D00B23234 /* RBSGradientTask.h */,
-				B12B98542111607D00B23234 /* RBSGradientTask.m */,
-				66189C52988CAC7151ACF05CDFB052F7 /* Support Files */,
-			);
-			name = RBSImageGradientColor;
-			path = ../..;
-			sourceTree = "<group>";
-		};
 		22FDC6A15F29CF6016FE99478F3A7B24 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -143,10 +125,20 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		2DB49512E4D2F058CCC179C6308E51A7 /* Development Pods */ = {
+		320E4291CCD8C1F09F7A0618382D05FF /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				212E0E9295A59009B784766EFA70243C /* RBSImageGradientColor */,
+				D4F4EB18C4704F79C649FA9302F34C16 /* LICENSE */,
+				D37384853C909CB97D2A66E53DEFE777 /* RBSImageGradientColor.podspec */,
+				2A811F9CAE1D23EBCF755ADBEE256093 /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		3EBE4A30051445F1227A1985BA065192 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				836E8F5A6DD88EAC1D795AD9D9FF9A95 /* RBSImageGradientColor */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -177,20 +169,6 @@
 			path = "Target Support Files/Pods-RBSImageGradientColor_Example";
 			sourceTree = "<group>";
 		};
-		66189C52988CAC7151ACF05CDFB052F7 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				18EFF712AD35A7F263AD139ED2FADC3E /* Info.plist */,
-				F8A9FBB50FC1E10459076F2989A431C7 /* RBSImageGradientColor.modulemap */,
-				8886A4EFF9DC345E43C5256F03293909 /* RBSImageGradientColor.xcconfig */,
-				1C4937752A76F86573D41738DC0521DE /* RBSImageGradientColor-dummy.m */,
-				22E9B0789B306F6DC3674E534AF2BDAC /* RBSImageGradientColor-prefix.pch */,
-				C6B53BAADB019B2FBC94CB12C529AA47 /* RBSImageGradientColor-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/RBSImageGradientColor";
-			sourceTree = "<group>";
-		};
 		6C80E4B26646B6F5898288D0E3439515 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -219,15 +197,47 @@
 			path = "Target Support Files/Pods-RBSImageGradientColor_Tests";
 			sourceTree = "<group>";
 		};
+		7881D604AEEC1F5691BE2A51C8C6A63A /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				E1D6375A6753A75E4DA3307655F8F212 /* Info.plist */,
+				877F0A1AE4F2FDF6AB112D3FBA4CF09A /* RBSImageGradientColor.modulemap */,
+				D730F82BE7CE3163562A47354DEBA29E /* RBSImageGradientColor.xcconfig */,
+				C25921677DB20EDA495921CCE5CD7B22 /* RBSImageGradientColor-dummy.m */,
+				B6D4AD843AD898B5D8B6DA04B3D1AE6F /* RBSImageGradientColor-prefix.pch */,
+				103E58E8A5BAB3AC12B2EBB6A0797205 /* RBSImageGradientColor-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/RBSImageGradientColor";
+			sourceTree = "<group>";
+		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				2DB49512E4D2F058CCC179C6308E51A7 /* Development Pods */,
+				3EBE4A30051445F1227A1985BA065192 /* Development Pods */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
 				6C80E4B26646B6F5898288D0E3439515 /* Products */,
 				22FDC6A15F29CF6016FE99478F3A7B24 /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		836E8F5A6DD88EAC1D795AD9D9FF9A95 /* RBSImageGradientColor */ = {
+			isa = PBXGroup;
+			children = (
+				237144FAA3A4C5E612FCE82C1A2609DA /* RBSGradientImageItem.h */,
+				EABFCC4900E774DF4034427877F65DED /* RBSGradientImageItem.m */,
+				8CA0176373C81C6518223B38BC2BCF53 /* RBSGradientItem.h */,
+				221193E416EA34C7A408D497472D9464 /* RBSGradientItem.m */,
+				2EFDD61ECF5A9B4AD90AA967F12B4112 /* RBSGradientModel.h */,
+				1F13E4F8B09B740599F96C9B653AAF23 /* RBSGradientModel.m */,
+				1758922963990C969B36FA387F813C05 /* RBSGradientTask.h */,
+				E076E56F072A0EF49297995F4C59C421 /* RBSGradientTask.m */,
+				320E4291CCD8C1F09F7A0618382D05FF /* Pod */,
+				7881D604AEEC1F5691BE2A51C8C6A63A /* Support Files */,
+			);
+			name = RBSImageGradientColor;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
@@ -238,36 +248,26 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		E903BFE927AB7E73B07B422C4A939574 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				8CA95119B36AA1D1390D78E955BC060D /* LICENSE */,
-				9453C8D1E99C997814ADE40E1995A117 /* RBSImageGradientColor.podspec */,
-				C01CBBCE6C4FC1A6D27575891D2C88B1 /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		24DA766F33CBDDE89BF8418E5737F847 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3880D8E6B2209DDD36168EB58D6D4282 /* RBSGradientImageItem.h in Headers */,
+				EC5E0685938D8E7AEEA306E3CFFCF573 /* RBSGradientItem.h in Headers */,
+				94171CE3CCB9E5ADCEBBD06E97CD56CB /* RBSGradientModel.h in Headers */,
+				ECA04FB4A2C5FDEB035F0A2360F3B937 /* RBSGradientTask.h in Headers */,
+				DC4D0DDBC3F796CAA8F6FBD6C52F04C6 /* RBSImageGradientColor-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		B7F1C01CB4F0828DC48B2C3E8BDFA9DD /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				C67FD1903EC6A4E5629972D56141DDBF /* Pods-RBSImageGradientColor_Tests-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D5BD28642ACC6D71994F9FB4BAAB22FA /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				961932BCA2A44D27E78574F6CAA8D505 /* RBSImageGradientColor-umbrella.h in Headers */,
-				B12B984D2111569500B23234 /* RBSGradientModel.h in Headers */,
-				B12B9843211150D800B23234 /* RBSGradientItem.h in Headers */,
-				B12B985121115C6400B23234 /* RBSGradientImageItem.h in Headers */,
-				B12B98552111607D00B23234 /* RBSGradientTask.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,9 +304,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4A7496DDD0726F8DADE189E18E637160 /* Build configuration list for PBXNativeTarget "RBSImageGradientColor" */;
 			buildPhases = (
-				F1B4E6D1275A36C23ED2246A1EA1EF89 /* Sources */,
+				1D15B35CF4C19A431E75DA776F5AE640 /* Sources */,
 				E6D6F0B8A88C39A174999F049019FC8A /* Frameworks */,
-				D5BD28642ACC6D71994F9FB4BAAB22FA /* Headers */,
+				24DA766F33CBDDE89BF8418E5737F847 /* Headers */,
 			);
 			buildRules = (
 			);
@@ -364,6 +364,18 @@
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
+		1D15B35CF4C19A431E75DA776F5AE640 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E3F284BE28D0C9D595DFDE51C9C1CAA3 /* RBSGradientImageItem.m in Sources */,
+				1406E9DD426BDC0035234C3D5CBFA158 /* RBSGradientItem.m in Sources */,
+				CF6CAAEE66C9B73A5D175645659D53CC /* RBSGradientModel.m in Sources */,
+				7FC05249B4450A34E604B5816D2516F8 /* RBSGradientTask.m in Sources */,
+				40C0A957CFA586257E609AC6AE071DB5 /* RBSImageGradientColor-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		439A341AE540EDF815A7FB7EC127B4AF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -377,18 +389,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				63D0361FB8B0B7CA20227D33EA69511B /* Pods-RBSImageGradientColor_Example-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F1B4E6D1275A36C23ED2246A1EA1EF89 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				B12B985221115C6400B23234 /* RBSGradientImageItem.m in Sources */,
-				B12B9844211150D800B23234 /* RBSGradientItem.m in Sources */,
-				5F6BADABDB264B0BA37CBEE34E7D96C2 /* RBSImageGradientColor-dummy.m in Sources */,
-				B12B984E2111569500B23234 /* RBSGradientModel.m in Sources */,
-				B12B98562111607D00B23234 /* RBSGradientTask.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -412,7 +412,7 @@
 /* Begin XCBuildConfiguration section */
 		051B30FEF04842CBB4DAEEBD45BF810D /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8886A4EFF9DC345E43C5256F03293909 /* RBSImageGradientColor.xcconfig */;
+			baseConfigurationReference = D730F82BE7CE3163562A47354DEBA29E /* RBSImageGradientColor.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -440,141 +440,7 @@
 			};
 			name = Debug;
 		};
-		07EC4F46AC5649FA030243684A3AD15F /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1A00DCC9882181199822CFA81A755AEA /* Pods-RBSImageGradientColor_Tests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-RBSImageGradientColor_Tests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-RBSImageGradientColor_Tests/Pods-RBSImageGradientColor_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		22D21A81A872AEA566550AA6BE266B98 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 63D216F6CFD96E95B10A5707E59EE188 /* Pods-RBSImageGradientColor_Example.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-RBSImageGradientColor_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-RBSImageGradientColor_Example/Pods-RBSImageGradientColor_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		2599561D2ACA09E480C022BCE40A4631 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 43078D578D340227F74285D15DE49E47 /* Pods-RBSImageGradientColor_Example.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-RBSImageGradientColor_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-RBSImageGradientColor_Example/Pods-RBSImageGradientColor_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		2E245214F50183938EE1313F753D59D1 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E85379E4665BC11C1CBC9BBCEE198B66 /* Pods-RBSImageGradientColor_Tests.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-RBSImageGradientColor_Tests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-RBSImageGradientColor_Tests/Pods-RBSImageGradientColor_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		8B33C5230DE4A9DFA6D8F46505DD7AF7 /* Debug */ = {
+		1EE19F5DD95931924296F637BF18BD8F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -627,7 +493,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -637,9 +503,109 @@
 			};
 			name = Debug;
 		};
+		28C8BB5CEA6E92B14F87C35F480D4BF9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E85379E4665BC11C1CBC9BBCEE198B66 /* Pods-RBSImageGradientColor_Tests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-RBSImageGradientColor_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-RBSImageGradientColor_Tests/Pods-RBSImageGradientColor_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		2EB3AEAB8B341868EF5BD544CE1DA739 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1A00DCC9882181199822CFA81A755AEA /* Pods-RBSImageGradientColor_Tests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-RBSImageGradientColor_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-RBSImageGradientColor_Tests/Pods-RBSImageGradientColor_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		4864FA038705C3C607714148F118FD87 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 63D216F6CFD96E95B10A5707E59EE188 /* Pods-RBSImageGradientColor_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-RBSImageGradientColor_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-RBSImageGradientColor_Example/Pods-RBSImageGradientColor_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		A7D05F4DD4C84FE5359101002931433D /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8886A4EFF9DC345E43C5256F03293909 /* RBSImageGradientColor.xcconfig */;
+			baseConfigurationReference = D730F82BE7CE3163562A47354DEBA29E /* RBSImageGradientColor.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -668,7 +634,41 @@
 			};
 			name = Release;
 		};
-		B42B54097A876E8A982CBF5DAA91B1AB /* Release */ = {
+		AA4EEDA9FF3204BA552A5F199A5FF6E2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 43078D578D340227F74285D15DE49E47 /* Pods-RBSImageGradientColor_Example.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-RBSImageGradientColor_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-RBSImageGradientColor_Example/Pods-RBSImageGradientColor_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		F4568DEE257655D290C2B9CEAB37C934 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -718,7 +718,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
@@ -732,8 +732,8 @@
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8B33C5230DE4A9DFA6D8F46505DD7AF7 /* Debug */,
-				B42B54097A876E8A982CBF5DAA91B1AB /* Release */,
+				1EE19F5DD95931924296F637BF18BD8F /* Debug */,
+				F4568DEE257655D290C2B9CEAB37C934 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -741,8 +741,8 @@
 		3A2C530C63B47D55461792687AEA209E /* Build configuration list for PBXNativeTarget "Pods-RBSImageGradientColor_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2E245214F50183938EE1313F753D59D1 /* Debug */,
-				07EC4F46AC5649FA030243684A3AD15F /* Release */,
+				28C8BB5CEA6E92B14F87C35F480D4BF9 /* Debug */,
+				2EB3AEAB8B341868EF5BD544CE1DA739 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -759,8 +759,8 @@
 		66CC8FA1AAC0D10F7832929BED998948 /* Build configuration list for PBXNativeTarget "Pods-RBSImageGradientColor_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				22D21A81A872AEA566550AA6BE266B98 /* Debug */,
-				2599561D2ACA09E480C022BCE40A4631 /* Release */,
+				4864FA038705C3C607714148F118FD87 /* Debug */,
+				AA4EEDA9FF3204BA552A5F199A5FF6E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

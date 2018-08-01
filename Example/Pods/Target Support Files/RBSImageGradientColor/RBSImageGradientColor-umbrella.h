@@ -10,11 +10,11 @@
 #endif
 #endif
 
-
-FOUNDATION_EXPORT double RBSImageGradientColorVersionNumber;
-FOUNDATION_EXPORT const unsigned char RBSImageGradientColorVersionString[];
-
 #import "RBSGradientImageItem.h"
 #import "RBSGradientItem.h"
 #import "RBSGradientModel.h"
 #import "RBSGradientTask.h"
+
+FOUNDATION_EXPORT double RBSImageGradientColorVersionNumber;
+FOUNDATION_EXPORT const unsigned char RBSImageGradientColorVersionString[];
+

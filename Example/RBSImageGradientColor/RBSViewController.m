@@ -7,10 +7,12 @@
 //
 
 #import "RBSViewController.h"
-#import <RBSImageGradientColor/RBSGradientItem.h>
-#import <RBSImageGradientColor/RBSGradientTask.h>
-#import <RBSImageGradientColor/RBSGradientModel.h>
-#import <RBSImageGradientColor/RBSGradientImageItem.h>
+@import RBSImageGradientColor;
+//#import <RBSImageGradientColor/RBSImageGradientColor-umbrella.h>
+//#import <RBSImageGradientColor/RBSGradientItem.h>
+//#import <RBSImageGradientColor/RBSGradientTask.h>
+//#import <RBSImageGradientColor/RBSGradientModel.h>
+//#import <RBSImageGradientColor/RBSGradientImageItem.h>
 
 static CGFloat const kDefualtImageW = 167;
 static CGFloat const kDefualtImageH = 28;

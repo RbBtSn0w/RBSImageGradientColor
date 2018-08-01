@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RBSImageGradientColor_Example' do
+  pod 'RBSImageGradientColor', :path => '../'
+
+  target 'RBSImageGradientColor_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

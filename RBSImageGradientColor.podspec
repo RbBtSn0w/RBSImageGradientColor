@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'RBSImageGradientColor'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of RBSImageGradientColor.'
+  s.summary          = 'Custom gradient color on imageView of RBSImageGradientColor.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,9 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Custom gradient color on imageView of RBSImageGradientColor.
+That will supoort asynch.
+
                        DESC
 
   s.homepage         = 'https://github.com/rbbtsn0w/RBSImageGradientColor'
@@ -31,7 +33,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'RBSImageGradientColor/Classes/**/*'
-  
+
   # s.resource_bundles = {
   #   'RBSImageGradientColor' => ['RBSImageGradientColor/Assets/*.png']
   # }
